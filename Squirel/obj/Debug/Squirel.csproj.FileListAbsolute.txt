@@ -1,0 +1,6 @@
+c:\users\flord\documents\visual studio 2017\Projects\Squirel\Squirel\bin\Debug\Squirel.dll
+c:\users\flord\documents\visual studio 2017\Projects\Squirel\Squirel\bin\Debug\Squirel.pdb
+c:\users\flord\documents\visual studio 2017\Projects\Squirel\Squirel\obj\Debug\Squirel.csprojResolveAssemblyReference.cache
+c:\users\flord\documents\visual studio 2017\Projects\Squirel\Squirel\obj\Debug\Squirel.csproj.CoreCompileInputs.cache
+c:\users\flord\documents\visual studio 2017\Projects\Squirel\Squirel\obj\Debug\Squirel.dll
+c:\users\flord\documents\visual studio 2017\Projects\Squirel\Squirel\obj\Debug\Squirel.pdb

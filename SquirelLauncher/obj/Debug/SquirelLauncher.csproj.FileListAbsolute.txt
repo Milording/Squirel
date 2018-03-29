@@ -1,0 +1,9 @@
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\SquirelLauncher\bin\Debug\SquirelLauncher.exe.config
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\SquirelLauncher\bin\Debug\SquirelLauncher.exe
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\SquirelLauncher\bin\Debug\SquirelLauncher.pdb
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\SquirelLauncher\bin\Debug\Squirel.dll
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\SquirelLauncher\bin\Debug\Squirel.pdb
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\SquirelLauncher\obj\Debug\SquirelLauncher.csprojResolveAssemblyReference.cache
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\SquirelLauncher\obj\Debug\SquirelLauncher.csproj.CoreCompileInputs.cache
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\SquirelLauncher\obj\Debug\SquirelLauncher.exe
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\SquirelLauncher\obj\Debug\SquirelLauncher.pdb

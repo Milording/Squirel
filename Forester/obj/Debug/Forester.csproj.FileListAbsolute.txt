@@ -1,0 +1,15 @@
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Forester.dll
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Forester.pdb
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Squirel.dll
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Squirel.pdb
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\obj\Debug\Forester.csprojResolveAssemblyReference.cache
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\obj\Debug\Forester.csproj.CoreCompileInputs.cache
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\obj\Debug\Forester.dll
+c:\Users\Flord\documents\visual studio 2017\Projects\Squirel\Forester\obj\Debug\Forester.pdb
